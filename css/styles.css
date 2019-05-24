@@ -1,22 +1,30 @@
-body{
-  display:flex;
+body {
+
   background-image: url("/home/moringa/Documents/moringa-school-projects/Portfolio-Landing-Page/Images/OPULENCE.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
-nav li{
+nav li {
     display: inline;
     margin-left: 30px;
 }
-nav li a{
+nav li a {
     text-decoration: none;
     padding: 10px;
     color: #ff914d;
     text-size: 10px;
     font-size: 130%;
 }
-a:hover{
+a:hover {
   color: black;
   background-color: white;
   text-decoration: underline;
+}
+.class {
+
+}
+.class p {
+  text-align: center;
+  font-size: 21px;
+  color: white;
 }
