@@ -15,6 +15,7 @@ nav li a {
     color: #ff914d;
     text-size: 10px;
     font-size: 130%;
+    font-family: 'IM Fell French Canon', serif;
 }
 a:hover {
   color: black;
@@ -24,8 +25,9 @@ a:hover {
 
 .first {
   text-align: center;
-  font-size: 21px;
+  font-size: 25px;
   color: white;
+  font-family: 'IM Fell French Canon', serif;
 }
 h1 {
   text-align: center;
@@ -33,4 +35,5 @@ h1 {
   color: white;
   margin-top: 12%;
   color: #ff914d;
+  font-family: 'Gilda Display', serif;
 }
