@@ -20,11 +20,14 @@ a:hover {
   background-color: white;
   text-decoration: underline;
 }
-.class {
 
-}
-.class p {
+.first {
   text-align: center;
   font-size: 21px;
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-size: 100px;
   color: white;
 }
