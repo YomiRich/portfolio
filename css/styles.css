@@ -1,22 +1,24 @@
 body {
-
   background-image: url("/home/moringa/Documents/moringa-school-projects/Portfolio-Landing-Page/Images/OPULENCE.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 nav li {
-    display: inline;
-    margin-left: 30px;
-    margin-bottom: 20%;
+  display: inline;
+  margin-left: 30px;
+  margin-bottom: 20%;
 }
+
 nav li a {
-    text-decoration: none;
-    padding: 10px;
-    color: #ff914d;
-    text-size: 10px;
-    font-size: 130%;
-    font-family: 'IM Fell French Canon', serif;
+  text-decoration: none;
+  padding: 10px;
+  color: #ff914d;
+  text-size: 10px;
+  font-size: 130%;
+  font-family: 'IM Fell French Canon', serif;
 }
+
 a:hover {
   color: black;
   background-color: white;
@@ -29,6 +31,7 @@ a:hover {
   color: white;
   font-family: 'IM Fell French Canon', serif;
 }
+
 h1 {
   text-align: center;
   font-size: 80px;
