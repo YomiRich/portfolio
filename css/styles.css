@@ -4,3 +4,14 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+nav li{
+    display: inline;
+    margin-left: 30px;
+}
+nav li a{
+    text-decoration: none;
+    padding: 10px;
+    color: #ff914d;
+    text-size: 10px;
+    font-size: 130%;
+}
