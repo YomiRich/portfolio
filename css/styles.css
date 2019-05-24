@@ -40,3 +40,7 @@ h1 {
   color: #ff914d;
   font-family: 'Gilda Display', serif;
 }
+.me {
+  display: flex;
+  flex-direction: column;
+}
