@@ -40,7 +40,23 @@ h1 {
   color: #ff914d;
   font-family: 'Gilda Display', serif;
 }
-.me {
+#rich {
   display: flex;
   flex-direction: column;
+  color: white;
+  font-size: 22px;
+  margin-left: 30px;
+  text-align: left;
+  margin-left: 130px;
+}
+.yomi  {
+ float: right;
+ margin: 0 0 0 15px;
+ margin-left: 30px;
+}
+#me {
+  flex-direction: column;
+  color: white;
+  font-size: 22px;
+  margin-left: 90px;
 }
