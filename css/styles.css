@@ -60,3 +60,11 @@ h1 {
   font-size: 22px;
   margin-left: 90px;
 }
+.call{
+  color: white;
+  font-size: 22px;
+  margin-left: 70px;
+}
+a:link {
+  color: #ff914d;
+}
