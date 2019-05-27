@@ -68,3 +68,11 @@ h1 {
 a:link {
   color: #ff914d;
 }
+.success{
+  color: white;
+  font-size: 22px;
+  margin-left: 70px;
+}
+span{
+  color: #ff914d;
+}
